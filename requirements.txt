@@ -1,0 +1,19 @@
+# Core scientific stack
+numpy
+scipy            # Savitzky-Golay filtering, DOP853 integrator (solve_ivp)
+matplotlib       # figures
+
+# Astronomy / reference frames
+astropy          # ITRF <-> ECI (GCRS) transforms, ephemerides
+
+# Deep learning
+torch            # iPINN and Neural ODE (PyTorch)
+torchdiffeq      # differentiable ODE solvers (dopri5) for the Neural ODE baseline
+
+# Notebook environment
+jupyter
+jupyterlab
+
+# Optional but commonly used for this kind of analysis:
+# pandas
+# tqdm
