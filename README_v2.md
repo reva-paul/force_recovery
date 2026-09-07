@@ -13,8 +13,6 @@ demonstrated by an unconstrained Neural ODE model.
 
 ## Contents
 
-Each notebook corresponds to a part of the paper:
-
 - `gracefo_inverse_pinn.ipynb` (§4, §5.1–5.2): the main inverse PINN estimator. This recovers the
   RTN nongravitational acceleration and produces Table 1; also produces the ablation
   rows of Table 2 (see below).
