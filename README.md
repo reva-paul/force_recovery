@@ -1,8 +1,7 @@
 ## Identifiability of Nongravitational Force Recovery from GRACE-FO Satellite Orbits Using Physics-Informed Neural Networks
 
 This is the code for the paper *"Identifiability of Nongravitational Force Recovery
-from GRACE-FO Satellite Orbits Using Physics-Informed Neural Networks"* (Reva Paul),
-submitted to AGU Earth and Space Science.
+from GRACE-FO Satellite Orbits Using Physics-Informed Neural Networks"* (Reva Paul).
 
 The code recovers the three-dimensional nongravitational acceleration on GRACE-FO
 satellite C from GPS navigation data alone, over a 14-day arc, using an inverse
